@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1fb37e-652a-4272-8595-718d64c0ed46" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="275" column="40" lean-forward="true" selection-start-line="275" selection-start-column="40" selection-end-line="275" selection-end-column="40" />
+            <state relative-caret-position="175">
+              <caret line="148" column="42" lean-forward="true" selection-start-line="148" selection-start-column="42" selection-end-line="148" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -66,6 +65,7 @@
       <find>feed</find>
       <find>languages</find>
       <find>&lt;a href=&quot;https://course.ccs.neu.edu/cs5010f15/&quot;&gt;</find>
+      <find>coding</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -177,12 +177,12 @@
       <updated>1516642086618</updated>
       <workItem from="1516642087765" duration="1699000" />
       <workItem from="1516645186890" duration="27492000" />
-      <workItem from="1517411107188" duration="2614000" />
+      <workItem from="1517411107188" duration="6288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31805000" />
+    <option name="totallyTimeSpent" value="35479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="688" y="6" width="1857" height="1092" extended-state="6" />
@@ -305,8 +305,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="275" column="40" lean-forward="true" selection-start-line="275" selection-start-column="40" selection-end-line="275" selection-end-column="40" />
+        <state relative-caret-position="175">
+          <caret line="148" column="42" lean-forward="true" selection-start-line="148" selection-start-column="42" selection-end-line="148" selection-end-column="42" />
           <folding />
         </state>
       </provider>
